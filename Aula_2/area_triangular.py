@@ -1,6 +1,6 @@
 print("digite a base do tringulo")
-b = float (input(int))
+b = float (input())
 print("digite a altura do tringulo")
-h =  float (input(int))
+h =  float (input())
 a = b * h / 2 
 print(f"Area = {a:.2f}")
